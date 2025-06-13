@@ -1,7 +1,8 @@
-# 📚 Repositório do MBA em Engenharia de Dados
+# 📚 Data Engineering MBA Repository
 
-Bem-vindo(a) ao repositório que reúne todos os projetos, atividades, anotações e materiais desenvolvidos ao longo do MBA em Engenharia de Dados.
+Welcome to the repository that gathers all projects, assignments, notes, and materials developed throughout the Data Engineering MBA program.
 
-## 🎯 Objetivo
+## 🎯 Purpose
 
-Este repositório tem como finalidade documentar a trajetória acadêmica durante o curso, facilitando a organização dos conteúdos estudados e servindo como referência futura em projetos profissionais ou acadêmicos.
+The goal of this repository is to document the academic journey during the course, organize studied content, and serve as a future reference for professional or academic projects.
+
